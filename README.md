@@ -1,19 +1,27 @@
-# Howland
+<p align="center"><img src="parrot.png" width="140" alt=""></p>
 
-Cowork, artifacts, and code on your own hardware. Free and private.
+<h1 align="center">HOWLAND</h1>
+
+<p align="center">Cowork, artifacts, and code on your own hardware. Free and private.</p>
 
 ## Download
 
-- macOS (Apple Silicon): [.dmg](../../releases/latest/download/Howland-macOS.dmg) or [.zip](../../releases/latest/download/Howland-macOS.zip)
-- Windows: [x64 .exe](../../releases/latest/download/Howland-Windows.exe) or [ARM64 .exe](../../releases/latest/download/Howland-Windows-arm64.exe)
-- Linux: [.AppImage](../../releases/latest/download/Howland-Linux.AppImage) or [.tar.gz](../../releases/latest/download/Howland-Linux.tar.gz)
+**Howland Server** runs your models and your library.
 
-See [all releases](../../releases).
+- [Mac](../../releases/latest/download/Howland-Server-macOS.dmg)
+- [Windows](../../releases/latest/download/Howland-Server-Windows.exe) and [Linux](../../releases/latest/download/Howland-Server-Linux.AppImage) are early previews
 
-Howland Desktop and Howland Mobile give you Cowork, artifacts, and code, connected to your Howland
-server. The Library gives you Wikipedia, Project Gutenberg, medical and survival guides, repair manuals,
-and offline world maps. It runs on your own hardware. Nothing goes to the cloud.
+**Howland Desktop** is the app you work in.
+
+- [Mac with Apple Silicon](../../releases/latest/download/Howland-macOS.dmg)
+- [Mac with Intel](../../releases/latest/download/Howland-macOS-Intel.dmg)
+- [Windows](../../releases/latest/download/Howland-Windows.exe)
+- [Linux](../../releases/latest/download/Howland-Linux.AppImage)
+
+**Howland Mobile** arrives when our app store accounts are approved.
+
+The installers are not signed yet, so expect a warning on first launch.
 
 ## Something broken?
 
-Open an [issue](../../issues/new/choose).
+[Tell us.](../../issues/new/choose)
