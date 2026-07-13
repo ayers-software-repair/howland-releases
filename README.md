@@ -4,23 +4,22 @@
 
 <p align="center">Cowork, artifacts, and code on your own hardware. Free and private.</p>
 
-## Download
+## Howland Server
 
-**Howland Server** runs your models and your library.
+Runs your models and your library.
 
-- [Mac](../../releases/latest/download/Howland-Server-macOS.dmg)
-- [Windows](../../releases/latest/download/Howland-Server-Windows.exe) and [Linux](../../releases/latest/download/Howland-Server-Linux.AppImage) are early previews
+[Mac](../../releases/latest/download/Howland-Server-macOS.dmg) &middot;
+[Windows](../../releases/latest/download/Howland-Server-Windows.exe) &middot;
+[Linux](../../releases/latest/download/Howland-Server-Linux.AppImage)
 
-**Howland Desktop** is the app you work in.
+## Howland Desktop
 
-- [Mac with Apple Silicon](../../releases/latest/download/Howland-macOS.dmg)
-- [Mac with Intel](../../releases/latest/download/Howland-macOS-Intel.dmg)
-- [Windows](../../releases/latest/download/Howland-Windows.exe)
-- [Linux](../../releases/latest/download/Howland-Linux.AppImage)
+The app you work in.
 
-**Howland Mobile** arrives when our app store accounts are approved.
-
-The installers are not signed yet, so expect a warning on first launch.
+[Mac, Apple Silicon](../../releases/latest/download/Howland-macOS.dmg) &middot;
+[Mac, Intel](../../releases/latest/download/Howland-macOS-Intel.dmg) &middot;
+[Windows](../../releases/latest/download/Howland-Windows.exe) &middot;
+[Linux](../../releases/latest/download/Howland-Linux.AppImage)
 
 ## Something broken?
 
