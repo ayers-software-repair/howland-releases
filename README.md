@@ -2,7 +2,7 @@
 
 <h1 align="center">HOWLAND</h1>
 
-<p align="center">Cowork, artifacts, and code on your own hardware. Free and private.</p>
+<p align="center">Offline AI &amp; Intranet. Chat, code, a full library, and web search on your own hardware. Free and private.</p>
 
 ## Howland Server
 
