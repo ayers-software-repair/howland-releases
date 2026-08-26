@@ -8,18 +8,23 @@
 
 Runs your models and your library.
 
-[Mac](../../releases/latest/download/Howland-Server-macOS.dmg) &middot;
-[Windows](../../releases/latest/download/Howland-Server-Windows.exe) &middot;
-[Linux](../../releases/latest/download/Howland-Server-Linux.AppImage)
+[Linux](https://github.com/ayers-software-repair/howland-releases/releases/latest/download/Howland-Server-Linux-x64.AppImage) &middot;
+[Linux, ARM](https://github.com/ayers-software-repair/howland-releases/releases/latest/download/Howland-Server-Linux-arm64.AppImage) &middot;
+[Linux .deb](https://github.com/ayers-software-repair/howland-releases/releases/latest/download/Howland-Server-Linux-x64.deb) &middot;
+[Linux .deb, ARM](https://github.com/ayers-software-repair/howland-releases/releases/latest/download/Howland-Server-Linux-arm64.deb)
+
+_Not yet published for: Mac, Apple Silicon; Mac, Intel; Windows — these are signed builds and ship once the signing certificates are in place._
 
 ## Howland Desktop
 
 The app you work in.
 
-[Mac, Apple Silicon](../../releases/latest/download/Howland-macOS.dmg) &middot;
-[Mac, Intel](../../releases/latest/download/Howland-macOS-Intel.dmg) &middot;
-[Windows](../../releases/latest/download/Howland-Windows.exe) &middot;
-[Linux](../../releases/latest/download/Howland-Linux.AppImage)
+[Linux](https://github.com/ayers-software-repair/howland-releases/releases/latest/download/Howland-Desktop-Linux-x64.AppImage) &middot;
+[Linux, ARM](https://github.com/ayers-software-repair/howland-releases/releases/latest/download/Howland-Desktop-Linux-arm64.AppImage) &middot;
+[Linux .deb](https://github.com/ayers-software-repair/howland-releases/releases/latest/download/Howland-Desktop-Linux-x64.deb) &middot;
+[Linux .deb, ARM](https://github.com/ayers-software-repair/howland-releases/releases/latest/download/Howland-Desktop-Linux-arm64.deb)
+
+_Not yet published for: Mac, Apple Silicon; Mac, Intel; Windows; Windows, ARM — these are signed builds and ship once the signing certificates are in place._
 
 ## Something broken?
 
